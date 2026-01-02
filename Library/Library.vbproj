@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>Library</RootNamespace>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImportedNamespaces>Microsoft.VisualBasic=True,System=True,System.Collections=True,System.Collections.Generic=True,System.Diagnostics=True,System.Linq=True,System.Xml.Linq=True,System.Threading.Tasks=True,Library=True</ImportedNamespaces>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="ItemImages\26073.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="ItemImages\26073.png" />
+  </ItemGroup>
+
+</Project>
