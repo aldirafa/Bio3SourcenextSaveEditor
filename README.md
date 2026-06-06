@@ -1,4 +1,6 @@
-﻿# Bio3SourcenextSaveEditor — Solution README
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y0F020WAJC)
+ 
+ # Bio3SourcenextSaveEditor — Solution README
 
 This repository contains a small solution for editing Resident Evil 3 `.bio3` save files for The Resident Evil 3: Nemesis (Sourcenext) version. It is split into two projects:
 
